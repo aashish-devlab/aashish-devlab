@@ -53,6 +53,17 @@ monitor environmental and system parameters.
 - Fault detection simulation
 - Python-based data visualization
 
+### Occupancy-Based Energy Saver
+
+An embedded system that automatically controls electrical appliances based on room occupancy using motion sensors and a microcontroller.
+
+**Features**
+- Detects human presence using PIR motion sensor  
+- Automatically turns appliances ON/OFF based on occupancy  
+- Reduces unnecessary energy consumption  
+- Real-time embedded control system  
+- Low-power microcontroller-based implementation  
+
 ### ESP32 Sensor Monitoring System
 
 A microcontroller-based system that reads environmental sensor data and
@@ -94,9 +105,10 @@ motion parameters.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
 </a>
 
-<a href="aashishkummar.eng@gmail.com">
+<a href="mailto:aashishkumar.eng@gmail.com">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="35"/>
 </a>
+
 
 ---
 ⭐ I enjoy experimenting with microcontrollers, sensors, and embedded
