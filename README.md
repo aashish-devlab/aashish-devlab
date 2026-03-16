@@ -1,47 +1,44 @@
-# Hi, I'm Aashish Kumar 👋
+<h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
+<h3 align="center">Electronics & Communication Engineering Student | Embedded Systems Enthusiast</h3>
 
-🎓 Electronics & Communication Engineering Student\
-🔧 Interested in **Embedded Systems, IoT, and Telemetry Systems**
 
-I build systems that combine **hardware, firmware, and software** to
-collect, process, and visualize real‑world data. My focus is on
-practical engineering projects involving microcontrollers, sensors, and
-telemetry systems.
+## 🚀 About Me
 
-------------------------------------------------------------------------
+- 🎓 Electronics & Communication Engineering student  
+- 🔧 Interested in **Embedded Systems, IoT, and Telemetry Systems**  
+- 📡 Currently building **sensor-based embedded projects using ESP32**  
+- 🧠 Learning **Embedded System Architecture and RTOS**  
+- 🎯 Goal: Become a **professional Embedded Systems Engineer**
 
-## 🚀 Current Focus
+## ⚙️ Embedded Systems & Programming Skills
 
--   Embedded Systems Development\
--   ESP32 & Microcontroller Programming\
--   Sensor Data Acquisition\
--   Telemetry & Monitoring Systems\
--   Real‑Time Data Visualization
+<p align="left">
 
-------------------------------------------------------------------------
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
 
-## 🛠️ Technical Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 
-### Programming
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 
--   C\
--   Python\
--   C++
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 
-### Embedded Systems
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 
--   ESP32\
--   Sensor Integration\
--   Serial Communication\
--   I2C / SPI Interfaces
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 
-### Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
--   Git & GitHub\
--   VS Code\
--   Arduino IDE
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 
-------------------------------------------------------------------------
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+
+</p>
+
+## 🔌 Hardware & Embedded Platforms
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg" width="40"/>
+</p>
 
 ## 📡 Featured Projects
 
@@ -50,68 +47,57 @@ telemetry systems.
 Simulates a spacecraft telemetry system using sensors and ESP32 to
 monitor environmental and system parameters.
 
-**Features** - Real-time sensor data acquisition\
-- Telemetry data transmission\
-- Fault detection simulation\
+**Features** 
+- Real-time sensor data acquisition
+- Telemetry data transmission
+- Fault detection simulation
 - Python-based data visualization
-
-------------------------------------------------------------------------
 
 ### ESP32 Sensor Monitoring System
 
 A microcontroller-based system that reads environmental sensor data and
 transmits it for monitoring and analysis.
 
-**Features** - Temperature and pressure monitoring\
-- Real-time data streaming\
+**Features** 
+- Temperature and pressure monitoring
+- Real-time data streaming
 - Serial communication interface
-
-------------------------------------------------------------------------
 
 ### MPU6050 Motion Analysis
 
 Reads accelerometer and gyroscope data to estimate orientation and
 motion parameters.
 
-**Features** - Pitch and roll calculation\
-- Real-time motion tracking\
+**Features** 
+- Pitch and roll calculation
+- Real-time motion tracking
 - Embedded sensor data processing
-
-------------------------------------------------------------------------
 
 ## 📚 Currently Learning
 
--   Embedded System Architecture\
--   Real-Time Operating Systems (RTOS)\
--   Communication Protocols\
+-   Embedded System Architecture
+-   Real-Time Operating Systems (RTOS)
+-   Communication Protocols
 -   Embedded Linux
-
-------------------------------------------------------------------------
-
-## 🎯 Career Goal
-
-To become an **Embedded Systems Engineer** building reliable
-hardware‑software systems for fields like **aerospace, robotics, and
-IoT**.
-
-------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=aashish-devlab&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashish-devlab&show_icons=true&theme=default)
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-devlab&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-devlab&icon=true&theme=default)
 
 ------------------------------------------------------------------------
 
-## 📫 Contact
+## 📫 Connect with Me
 
--   LinkedIn: https://www.linkedin.com/in/aashishkumar-ec/
--   Email: aashishkumar.eng@gmail.com
+<a href="https://www.linkedin.com/in/aashishkumar-ec/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+</a>
 
-------------------------------------------------------------------------
+<a href="aashishkummar.eng@gmail.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="35"/>
+</a>
 
+---
 ⭐ I enjoy experimenting with microcontrollers, sensors, and embedded
 systems to build practical engineering solutions.
